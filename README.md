@@ -1,5 +1,5 @@
 
-# Contato Form
+# Lista de Contatos em Flutter
 
 Projeto referente a uma agenda de contatos com Flutter.
 
